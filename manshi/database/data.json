@@ -1,0 +1,20 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "nome": "Shimeji"
+        },
+        {
+            "id": 2,
+            "nome": "Temaki"
+        },
+        {
+            "id": 3,
+            "nome": "Hotroll"
+        },
+        {
+            "id": 4,
+            "nome": "Ceviche"
+        }
+    ]
+}
